@@ -1,10 +1,5 @@
 # Flying Man 3D
 The character at the beginning of the platform is thrown with the help of a slingshot and the number of characters increases or decreases according to the characteristics of the rings passed through. The level is completed successfully when more characters are collected than the number of enemies waiting at the end of the platform.
-
-## Appstore
-
-[Click here for the IOS build](https://apps.apple.com/us/app/flying-men-3d/id1575784488)
-
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/55920002/139055005-4716b951-57cb-4b1e-bd16-f252c8651ab7.jpg" width="300"/>
